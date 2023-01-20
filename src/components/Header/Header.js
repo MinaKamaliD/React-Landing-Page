@@ -8,7 +8,7 @@ class Header extends Component {
       <header className="container">
         <div className="logo">
           <a href="#">
-            <img src=".././l.png" alt="" />
+            <img src="./l.png" alt="" />
           </a>
         </div>
         <div className="links">
