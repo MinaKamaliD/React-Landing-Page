@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.footer-container {
+  background-color: #f9cb52;
+  border-radius: 0 100px 0 0;
+  width: 50vw;
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-container a {
+  text-decoration: none;
+  color: aliceblue;
+  color: #000;
+}
+.footer-container a:hover {
+  color: #696030;
+}
